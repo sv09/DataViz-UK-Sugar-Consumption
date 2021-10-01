@@ -1,0 +1,42 @@
+html, body {
+    max-height: 100%;
+    overflow-y: hidden;
+}
+
+.title-container{
+    --parentWidth: 960px;
+    width: var(--parentWidth);
+    margin: 30px;
+}
+
+.title{
+    font-family: sans-serif;
+    font-size: 32px;
+    /* padding-left: calc(var(--parentWidth)/6); */
+    text-align: center;
+    background-color: #eeeae8;
+    padding: 10px;
+}
+
+.para-text{
+    font-family: sans-serif;
+    /* padding-left: 6%; */
+    /* width: calc(var(--parentWidth)/1.25); */
+    width: calc(var(--parentWidth));
+    text-align: justify;
+    column-count: 2;
+    column-gap: 30px;
+    padding: 0px;
+}
+
+.svg-container{
+    width: 960px;
+    margin: 30px;
+}
+
+.source{
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #A9A5A3;
+    padding-left: 2%;
+}
