@@ -155,12 +155,4 @@ d3.csv('./AgeGroup.csv').then(data => {
         .attr('font-size', 10)
         .text(chart_text)
 
-
-    //************//
-
-    // const svgL = d3.select('svg-container')
-    //                 .attr('width', width/4+margin.left+margin.right)
-    //                 .attr('height', height+margin.top+margin.bottom)
-    //                 .attr('fill', 'grey')
-
 });
