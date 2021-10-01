@@ -1,4 +1,4 @@
-# Sugar Consumption in the UK (2008-1016) | Data Visualization: d3.js v7
+# Sugar Consumption in the UK (2008-2016) | Data Visualization: d3.js v7
 
 ## Chart type: Bar
 
