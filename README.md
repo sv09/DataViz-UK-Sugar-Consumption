@@ -19,14 +19,14 @@ In this chart, I'm plotting the %change in the free sugar consumption since 2008
 <!-- Description/ -->
 Original data file - data.csv
 
-Columns - All age groups by gender, Paired years
-Column values -  (**string**) each age group for each gender, (**float**) % of total energy in the form of free sugars for all age groups and each gender 
+- Columns - All age groups by gender, Paired years
+- Column values -  (**string**) each age group for each gender, (**float**) % of total energy in the form of free sugars for all age groups and each gender 
 
 
 Cleaned and edited data file - AgeGroup.csv
 
-Columns - Age Group, Each pair of year from 2008 to 2016
-Column values - (**string**) Each Age Group, (**float**) % of total energy in the form of free sugars intake for every age group for each pair of year
+- Columns - Age Group, Each pair of year from 2008 to 2016
+- Column values - (**string**) Each Age Group, (**float**) % of total energy in the form of free sugars intake for every age group for each pair of year
 
 ## Data Cleaning - Python
 
